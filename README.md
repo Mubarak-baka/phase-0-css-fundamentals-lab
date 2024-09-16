@@ -48,7 +48,7 @@ attribute, like so:
 
 ```html
 <link rel="stylesheet" href="relative path to CSS file" />
-```
+``` <link rel="stylesheet" href="./style.css">
 
 Links to style sheets should go at the end of the `<head>` section! Make sure
 you provide a _relative_ path to the style sheet.
